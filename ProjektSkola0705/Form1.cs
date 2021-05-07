@@ -19,7 +19,7 @@ namespace ProjektSkola0705
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Nazdar");
+            MessageBox.Show("Ahoj");
         }
     }
 }
